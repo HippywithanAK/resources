@@ -1,0 +1,26 @@
+#---------------------
+#Git Command Aliases
+#---------------------
+
+#print git log
+alias gl='git log'
+# initiate repo
+alias gi='git init'
+# clone repo
+alias gcl='git clone'
+# add to staging
+alias ga='git add'
+# commit changes
+alias gc='git commit'
+# Add remote 
+alias grau='git remote add upstream'
+# push changes to remote (if available)
+alias gpsh='git push' 
+# pull from origin
+alias gpll='git pull'
+# merge fork or branch
+alias gm='git merge'
+# check branch
+alias gb='git branch'
+# change to branch
+alias gch='git checkout'
