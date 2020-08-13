@@ -21,10 +21,10 @@ alias gc='git commit'
 alias grau='git remote add upstream'
 
 # push changes to remote (if available)
-alias gpsh='git push' 
+alias gps='git push' 
 
 # pull from origin
-alias gpll='git pull'
+alias gpl='git pull'
 
 # merge fork or branch
 alias gm='git merge'
@@ -34,3 +34,17 @@ alias gb='git branch'
 
 # change to branch
 alias gch='git checkout'
+
+# shutdown shortcut
+alias sdn='shutdown now'
+
+# Restart shortcut
+alias rst='shutdown -r now'
+
+# shortcut for firefox
+alias fire='firefox'
+
+# shortcut for home directory
+alias hm='cd ~'
+
+# shortcut for password generator
