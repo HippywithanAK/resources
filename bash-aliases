@@ -48,3 +48,13 @@ alias fire='firefox'
 alias hm='cd ~'
 
 # shortcut for password generator
+alias pgen='node /home/rich/node-scripts/pwgen.js'
+
+# shortcut for node
+alias n='node'
+
+# stop ping after 5 packets
+alias ping='ping -c 5'
+
+# set shortcut variable for trademe
+trade='www.trademe.co.nz'
